@@ -9,3 +9,7 @@ Core technologies:
 * [A-Frame](https://github.com/aframevr/aframe/) for 3D WebXR
 * [Extism](https://extism.org/) for WebAssembly plugins
 * [Automerge](https://automerge.org/) a CRDT data structure for taking your mixed reality environment apps and their data anywhere
+
+# Demo
+
+Play with the demo [here](https://webaugments.com/demo.html).
