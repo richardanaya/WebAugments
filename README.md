@@ -1,6 +1,5 @@
 
-![webaugments](https://github.com/richardanaya/webaugments/assets/294042/b647f1eb-c9fc-4b8d-aef9-1214c96d6125)
-
+<p align="center"><img src="https://github.com/richardanaya/webaugments/assets/294042/b647f1eb-c9fc-4b8d-aef9-1214c96d6125" width="300"></p>
 # Mixed Reality x WebAssembly Applications
 
 This project is a proof of concept of having mixed reality filled with persistant WebAssembly apps.
